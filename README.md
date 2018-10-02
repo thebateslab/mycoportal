@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/globalbioticinteractions/mycoportal.svg)](https://travis-ci.org/globalbioticinteractions/mycoportal) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/mycoportal)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/mycoportal) 
 
-This repository contains fungal interactions extracted from Mycoportal.org . 
+This repository contains fungal interactions extracted from [Mycoportal.org](https://mycoportal.org) . 
 
 This interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
