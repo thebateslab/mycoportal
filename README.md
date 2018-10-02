@@ -1,6 +1,8 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/template-dataset.svg)](https://travis-ci.org/globalbioticinteractions/template-dataset) [![DOI](https://zenodo.org/badge/26293374.svg)](https://zenodo.org/badge/latestdoi/26293374) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/template-dataset) 
+[![Build Status](https://travis-ci.org/globalbioticinteractions/mycoportal.svg)](https://travis-ci.org/globalbioticinteractions/mycoportal) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/mycoportal)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/mycoportal) 
 
-This repository provides an example on how to make your interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
+This repository contains fungal interactions extracted from Mycoportal.org . 
+
+This interaction data available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
 If you have comments or questions please [open an issue](https://github.com/jhpoelen/eol-globi-data/issues/new).
 
@@ -31,7 +33,7 @@ You can use http://travis-ci.org to check whether your data can be read by GloBI
 
 To enable:
 
-1. make sure that the file ```.travis.yml``` is present in your repo. If not, copy the one available in https://github.com/globalbioticinteractions/template-dataset/blob/master/.travis.yml . 
+1. make sure that the file ```.travis.yml``` is present in your repo. If not, copy the one available in https://github.com/globalbioticinteractions/mycoportal/blob/master/.travis.yml . 
 2. go to http://travis-ci.org and login using your github credentials
 3. locate your data repository in your account list
 4. enable your data repository for travis
@@ -40,7 +42,7 @@ To enable:
 
 Now, whenever you make a change to data repository that is incompatible with GloBI, you receive a notification. If you'd like, you can include a build badge on your own html pages to see the health of your data. Here's an example of a build badge:  
 
-[![Build Status](https://travis-ci.org/globalbioticinteractions/template-dataset.png)](https://travis-ci.org/globalbioticinteractions/template-dataset)
+[![Build Status](https://travis-ci.org/globalbioticinteractions/mycoportal.png)](https://travis-ci.org/globalbioticinteractions/mycoportal)
 
 
 ## Data Format and Dictionary
